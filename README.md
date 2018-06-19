@@ -42,6 +42,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Plugins](#Plugins)
 * [Projects](#Projects)
 * [Articles](#Articles)
+* [Videos](#Videos)
 * [Others](#Others)
 
 ## Community
@@ -117,11 +118,17 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [NaturalLanguage](https://github.com/dtcxzyw/NaturalLanguage): An imitation of the C++ language.
 * [DA-MD5](https://github.com/DATechnologyStudio/DA-MD5): A changeable data MD5 library by DA studio
 * [boost_ptree_example](https://github.com/wyy584322202/boost_ptree_example): 使用ptree处理json
+* [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464): Add xmake.lua file to make it easier to build libuv
 
 ## Articles
 
 * [English articles on tboox.org](http://www.tboox.org/category/#xmake)
 * [Chinese articles on tboox.org](http://www.tboox.org/cn/category/#xmake)
+
+## Videos
+
+* [Basic Usages](https://asciinema.org/a/133693)
+* [Download and install packages](https://asciinema.org/a/140338)
 
 ## Others
 
