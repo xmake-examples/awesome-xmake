@@ -36,14 +36,14 @@
 
 Your contributions are highly welcome (first see [CONTRIBUTING.md](https://github.com/tboox/awesome-xmake/blob/master/CONTRIBUTING.md)).
 
-* [Community](#Community)
-* [Examples](#Examples)
-* [Documents](#Documents)
-* [Plugins](#Plugins)
-* [Projects](#Projects)
-* [Articles](#Articles)
-* [Videos](#Videos)
-* [Others](#Others)
+* [Community](#community)
+* [Examples](#examples)
+* [Documents](#documents)
+* [Plugins](#plugins)
+* [Projects](#projects)
+* [Articles](#articles)
+* [Videos](#videos)
+* [Others](#others)
 
 ## Community
 
