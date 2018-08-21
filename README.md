@@ -119,6 +119,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [DA-MD5](https://github.com/DATechnologyStudio/DA-MD5): A changeable data MD5 library by DA studio
 * [boost_ptree_example](https://github.com/wyy584322202/boost_ptree_example): 使用ptree处理json
 * [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464): Add xmake.lua file to make it easier to build libuv
+* [mobula](https://github.com/ldust/mobula)
+* [hikyuu](https://github.com/fasiondog/hikyuu): Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 
 ## Articles
 
