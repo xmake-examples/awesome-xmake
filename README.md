@@ -121,6 +121,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Add xmake to libuv](https://github.com/libuv/libuv/pull/1464): Add xmake.lua file to make it easier to build libuv
 * [mobula](https://github.com/ldust/mobula)
 * [hikyuu](https://github.com/fasiondog/hikyuu): Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
+* [userver](https://github.com/dreamtraveler/userver): A c++ game server framework based on libuv
 
 ## Articles
 
