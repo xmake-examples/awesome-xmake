@@ -39,6 +39,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Community](#community)
 * [Examples](#examples)
 * [Documents](#documents)
+* [Repositories](#repositories)
 * [Plugins](#plugins)
 * [Projects](#projects)
 * [Articles](#articles)
@@ -67,6 +68,10 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 * [English Documents](https://xmake.io/#/home)
 * [Chinese Documents](https://xmake.io/#/zh/)
+
+## Repositories
+
+* [xmake-repo](https://github.com/tboox/xmake-repo): An official xmake package repository
 
 ## Plugins
 
