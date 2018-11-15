@@ -111,7 +111,6 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [xval](https://github.com/luzhlon/xval): xval是一个轻量级的C++动态类型对象库，主要用于与其他动态语言的通信
 * [srpc](https://github.com/luzhlon/srpc): srpc是一个基于TCP流和msgpack的RPC协议
 * [websocket-cpp](https://github.com/luzhlon/websocket-cpp): websocket-protocol's implementation with multithread synchronization model in C++
-* [slib](https://github.com/myzhang1029/slib): The slib stands for the SBL Portable Programming Interface Library. 
 * [libacl](https://github.com/acl-dev/acl): An advanced C/C++ Network library 
 * [libfiber](https://github.com/acl-dev/libfiber): The high performance coroutine library for Linux/FreeBSD/Windows, supporting select/poll/epoll/kqueue/iocp/windows GUI
 * [EasyCrossPlatform_src](https://github.com/EasyCrossPlatformLib/EasyCrossPlatform_src): An easy-to-use crossplatform C++ Library, primarily for server-side development.
@@ -119,7 +118,6 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [tlpi_hdr](https://github.com/frostRed/tlpi_hdr): The Linux programming interface codes
 * [json](https://github.com/xyliuke/json): A json parser
 * [cyOS](https://github.com/chenyanzz/cyOS): 一个岩岩小天使正在做的操作系统
-* [NayukiYq](https://github.com/qiboda/NayukiYq) 
 * [NaturalLanguage](https://github.com/dtcxzyw/NaturalLanguage): An imitation of the C++ language.
 * [DA-MD5](https://github.com/DATechnologyStudio/DA-MD5): A changeable data MD5 library by DA studio
 * [boost_ptree_example](https://github.com/wyy584322202/boost_ptree_example): 使用ptree处理json
