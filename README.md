@@ -6,10 +6,10 @@
   <h1>awesome-xmake</h1>
 
   <div>
-    <a href="https://github.com/tboox/xmake/releases">
+    <a href="https://github.com/xmake-io/xmake/releases">
       <img src="https://img.shields.io/github/release/tboox/xmake.svg?style=flat-square" alt="Github All Releases" />
     </a>
-    <a href="https://github.com/tboox/xmake/blob/master/LICENSE.md">
+    <a href="https://github.com/xmake-io/xmake/blob/master/LICENSE.md">
       <img src="https://img.shields.io/github/license/tboox/xmake.svg?colorB=f48041&style=flat-square" alt="license" />
     </a>
     <a href="https://www.reddit.com/r/tboox/">
@@ -48,7 +48,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Community
 
-* [issues on Github](https://github.com/tboox/xmake/issues)
+* [issues on Github](https://github.com/xmake-io/xmake/issues)
 * [/r/tboox on Reddit](https://www.reddit.com/r/tboox/)
 * [Chat on Gitter](https://gitter.im/tboox/tboox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [Chat on Telegram](https://t.me/tbooxorg)
@@ -71,7 +71,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Repositories
 
-* [xmake-repo](https://github.com/tboox/xmake-repo): An official xmake package repository
+* [xmake-repo](https://github.com/xmake-io/xmake-repo): An official xmake package repository
 
 ## Plugins
 
@@ -85,9 +85,9 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 #### IDE/Editor Plugins
 
-* [xmake-vscode](https://github.com/tboox/xmake-vscode): A VSCode plugin for xmake
-* [xmake-sublime](https://github.com/tboox/xmake-sublime): A Sublime Text 2/3 plugin for xmake
-* [xmake-idea](https://github.com/tboox/xmake-idea): A Intellij-IDEA plugin for xmake
+* [xmake-vscode](https://github.com/xmake-io/xmake-vscode): A VSCode plugin for xmake
+* [xmake-sublime](https://github.com/xmake-io/xmake-sublime): A Sublime Text 2/3 plugin for xmake
+* [xmake-idea](https://github.com/xmake-io/xmake-idea): A Intellij-IDEA plugin for xmake
 * [xmake.vim](https://github.com/luzhlon/xmake.vim): A third-party vim plugin for xmake, thanks [@luzhlon](https://github.com/luzhlon)
 
 ## Projects
@@ -139,6 +139,6 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Others
 
-* [xmake-repo](https://github.com/tboox/xmake-repo): A package repository based on xmake 
+* [xmake-repo](https://github.com/xmake-io/xmake-repo): A package repository based on xmake 
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui 
