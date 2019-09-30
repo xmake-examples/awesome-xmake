@@ -142,3 +142,4 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [xmake-repo](https://github.com/xmake-io/xmake-repo): A package repository based on xmake 
 * [ts-xmake-logo](https://github.com/TitanSnow/ts-xmake-logo): The logo icon for xmake. Thanks [@TitanSnow](https://github.com/TitanSnow)
 * [ts-xmake-gui](https://github.com/TitanSnow/ts-xmake-gui): An ugly xmake gui 
+* [github-action-setup-xmake](https://github.com/xmake-io/github-action-setup-xmake): Set up your GitHub Actions workflow with a specific version of xmake
