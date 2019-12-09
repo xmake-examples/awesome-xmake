@@ -126,6 +126,15 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [mobula](https://github.com/ldust/mobula)
 * [hikyuu](https://github.com/fasiondog/hikyuu): Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 * [userver](https://github.com/dreamtraveler/userver): A c++ game server framework based on libuv
+* [co](https://github.com/idealvin/co): An elegant and efficient C++ basic library for Linux, Windows and Mac.
+* [lcui-router-app](https://github.com/lc-ui/lcui-router-app): A simple application for LCUI Router
+* [lcui-router](https://github.com/lc-soft/lcui-router): A router for control view switching and status in the LCUI applications, it inspired by the Vue Router.
+* [aoc2019](https://github.com/wrren/aoc2019): Advent of Code 2019 Solutions
+* [FengEngine](https://github.com/libyyu/FengEngine)
+* [dnn](https://github.com/garraGH/dnn): Framework for deep neural network using c++/cuda/opengl
+* [UWPFlow](https://github.com/OpportunityLiu/UWPFlow): UW Continuation Power Flow 
+* [cgraph](https://github.com/liurunzhan/cgraph): A C LIBRARY FOR GRAPH ANALYSIS
+
 
 ## Articles
 
