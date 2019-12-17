@@ -134,6 +134,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [dnn](https://github.com/garraGH/dnn): Framework for deep neural network using c++/cuda/opengl
 * [UWPFlow](https://github.com/OpportunityLiu/UWPFlow): UW Continuation Power Flow 
 * [cgraph](https://github.com/liurunzhan/cgraph): A C LIBRARY FOR GRAPH ANALYSIS
+* [shadowssh_rule_c](https://github.com/ChanthMiao/shadowssh_rule_c): the calculation lib example of shadowssh
+* [rc](https://github.com/lumpyzhu/rc): rc is rust in c++
 
 
 ## Articles
