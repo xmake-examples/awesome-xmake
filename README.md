@@ -136,6 +136,10 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [cgraph](https://github.com/liurunzhan/cgraph): A C LIBRARY FOR GRAPH ANALYSIS
 * [shadowssh_rule_c](https://github.com/ChanthMiao/shadowssh_rule_c): the calculation lib example of shadowssh
 * [rc](https://github.com/lumpyzhu/rc): rc is rust in c++
+* [Re.Write.Down](https://github.com/MidAutumnMoon/Re.Write.Down): A Markup Language and it's C++ compiler.
+* [Sound_THUMB](https://github.com/Yunoinsky/Sound_THUMB): 这是一个THUMB的增强现实有音乐元素的美少女/美少年的抽卡氪金手游
+* [ttp](https://github.com/codehz/ttp): Minimal HTTP library (pure)
+* [ctxco](https://github.com/codehz/ctxco): Minimal (and intuitive to use) coroutine implement in c
 
 
 ## Articles
