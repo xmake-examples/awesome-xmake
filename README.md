@@ -140,7 +140,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Sound_THUMB](https://github.com/Yunoinsky/Sound_THUMB): 这是一个THUMB的增强现实有音乐元素的美少女/美少年的抽卡氪金手游
 * [ttp](https://github.com/codehz/ttp): Minimal HTTP library (pure)
 * [ctxco](https://github.com/codehz/ctxco): Minimal (and intuitive to use) coroutine implement in c
-
+* [moosey](https://github.com/cheereaque/moosey): Moosey is an open-source RDBMS written in modern C++
 
 ## Articles
 
