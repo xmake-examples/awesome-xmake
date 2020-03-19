@@ -141,6 +141,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [ttp](https://github.com/codehz/ttp): Minimal HTTP library (pure)
 * [ctxco](https://github.com/codehz/ctxco): Minimal (and intuitive to use) coroutine implement in c
 * [moosey](https://github.com/cheereaque/moosey): Moosey is an open-source RDBMS written in modern C++
+* [zsign](https://github.com/zhlynn/zsign): Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
 
 ## Articles
 
