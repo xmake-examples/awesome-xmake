@@ -142,6 +142,9 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [ctxco](https://github.com/codehz/ctxco): Minimal (and intuitive to use) coroutine implement in c
 * [moosey](https://github.com/cheereaque/moosey): Moosey is an open-source RDBMS written in modern C++
 * [zsign](https://github.com/zhlynn/zsign): Maybe is the most quickly codesign alternative for iOS12+ in the world, cross-platform ( Linux & macOS ).
+* [chimney-c](https://github.com/Evan2698/chimney-c)
+* [ElementZero](https://github.com/Element-0/ElementZero): Run windows version of BDS in linux with Mod support
+* [Gobang](https://github.com/Leopard-C/Gobang): 五子棋游戏，游戏双方联网对战
 
 ## Articles
 
