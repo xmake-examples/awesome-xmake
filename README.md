@@ -147,6 +147,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [chimney-c](https://github.com/Evan2698/chimney-c)
 * [ElementZero](https://github.com/Element-0/ElementZero): Run windows version of BDS in linux with Mod support
 * [Gobang](https://github.com/Leopard-C/Gobang): 五子棋游戏，游戏双方联网对战
+* [SakuraEngine](https://github.com/SaeruHikari/SakuraEngine): 跨平台的现代游戏引擎
+* [TensorIR](https://github.com/zhangxp1998/TensorIR)
 
 ## Articles
 
