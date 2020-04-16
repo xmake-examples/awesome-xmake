@@ -89,6 +89,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [xmake-sublime](https://github.com/xmake-io/xmake-sublime): A Sublime Text 2/3 plugin for xmake
 * [xmake-idea](https://github.com/xmake-io/xmake-idea): A Intellij-IDEA plugin for xmake
 * [xmake.vim](https://github.com/luzhlon/xmake.vim): A third-party vim plugin for xmake, thanks [@luzhlon](https://github.com/luzhlon)
+* [xmake-gradle](https://github.com/xmake-io/xmake-gradle): A gradle plugin that integrates xmake seamlessly.
+
 
 ## Projects
 
