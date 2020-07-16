@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://xmake.io">
-    <img width="200" heigth="200" src="http://tboox.org/static/img/xmake/logo256c.png">
+    <img width="160" heigth="160" src="http://tboox.org/static/img/xmake/logo256c.png">
   </a>  
 
   <h1>awesome-xmake</h1>
@@ -68,6 +68,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 * [English Documents](https://xmake.io/#/home)
 * [Chinese Documents](https://xmake.io/#/zh/)
+* [Dash-docsets (xmake)](https://github.com/Kapeli/Dash-User-Contributions/tree/master/docsets/XMake): Thanks @kassane
 
 ## Repositories
 
