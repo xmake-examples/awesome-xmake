@@ -64,6 +64,10 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [WDK Driver Program](https://xmake.io/#/home?id=wdk-driver-program)
 * [WinSDK Application Program](https://xmake.io/#/home?id=winsdk-application-program)
 
+## Courses
+
+* [Chinese Courses](https://xmake.io/#/zh-cn/about/course)
+
 ## Documents
 
 * [English Documents](https://xmake.io/#/home)
