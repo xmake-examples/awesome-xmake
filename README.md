@@ -56,13 +56,21 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Examples
 
-* [Executable Program](https://xmake.io/#/home?id=executable-program)
-* [Static Library Program](https://xmake.io/#/home?id=static-library-program)
-* [Dynamic Library Program](https://xmake.io/#/home?id=share-library-program)
-* [Qt Program](https://xmake.io/#/home?id=qt-program)
-* [Cuda Program](https://xmake.io/#/home?id=cuda-program)
-* [WDK Driver Program](https://xmake.io/#/home?id=wdk-driver-program)
-* [WinSDK Application Program](https://xmake.io/#/home?id=winsdk-application-program)
+* [Executable Program](https://xmake.io/#/guide/project_examples?id=executable-program)
+* [Static Library Program](https://xmake.io/#/guide/project_examples?id=static-library-program)
+* [Dynamic Library Program](https://xmake.io/#/guide/project_examples?id=share-library-program)
+* [Qt Program](https://xmake.io/#/guide/project_examples?id=qt-program)
+* [Cuda Program](https://xmake.io/#/guide/project_examples?id=cuda-program)
+* [WDK Driver Program](https://xmake.io/#/guide/project_examples?id=wdk-driver-program)
+* [WinSDK Application Program](https://xmake.io/#/guide/project_examples?id=winsdk-application-program)
+* [MFC Application Program](https://xmake.io/#/guide/project_examples?id=mfc-application-program)
+* [iOS/MacOS Application Program](https://xmake.io/#/guide/project_examples?id=iosmacos-program)
+* [OpenMP Program](https://xmake.io/#/guide/project_examples?id=openmp-program)
+* [Fortran Program](https://xmake.io/#/guide/project_examples?id=fortran-program)
+* [Zig Program](https://xmake.io/#/guide/project_examples?id=zig-program)
+* [Rust Program](https://xmake.io/#/guide/project_examples?id=rust-program)
+* [Dlang Program](https://xmake.io/#/guide/project_examples?id=dlang-program)
+* [Go Program](https://xmake.io/#/guide/project_examples?id=go-program)
 
 ## Courses
 
