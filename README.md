@@ -154,6 +154,16 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Gobang](https://github.com/Leopard-C/Gobang): 五子棋游戏，游戏双方联网对战
 * [SakuraEngine](https://github.com/SaeruHikari/SakuraEngine): 跨平台的现代游戏引擎
 * [TensorIR](https://github.com/zhangxp1998/TensorIR)
+* [kvm](https://github.com/wrren/kvm): Use DDC/CI to change your monitor's inputs in response to USB device connect or disconnect events.
+* [lua-format](https://github.com/awh6al/lua-format): Reformats your Lua source code.
+* [CLRS](https://github.com/bamceil/CLRS)
+* [swe](https://github.com/jaratma/swe)
+* [Btk](https://github.com/BusyStudent/Btk): A library for developing Gui based on SDL2
+* [IntroSTL](https://github.com/bamceil/IntroSTL)
+* [dson](https://github.com/bamceil/dson)
+* [fileSys](https://github.com/zmz1998/fileSys): virtul fileSystem in linux
+* [cv_learning](https://github.com/Biobots/cv_learning)
+
 
 ## Articles
 
