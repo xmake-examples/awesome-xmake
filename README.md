@@ -48,11 +48,12 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 
 ## Community
 
-* [issues on Github](https://github.com/xmake-io/xmake/issues)
-* [/r/xmake on Reddit](https://www.reddit.com/r/xmake/)
-* [Chat on Gitter](https://gitter.im/xmake-io/xmake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* [Chat on Telegram](https://t.me/tbooxorg)
-* [Chat on QQ group](https://jq.qq.com/?_wv=1027&k=5hpwWFv)
+- [Chat on reddit](https://www.reddit.com/r/xmake/)
+- [Chat on telegram](https://t.me/tbooxorg)
+- [Chat on gitter](https://gitter.im/xmake-io/xmake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- [Chat on discord/en](https://discord.gg/XXRp26A4Gr)
+- [Chat on discord/zh](https://discord.gg/aY7RVeKdG7)
+- Chat on QQ Group: 343118190(Technical Support), 662147501
 
 ## Examples
 
