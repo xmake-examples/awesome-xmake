@@ -171,7 +171,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [dson](https://github.com/bamceil/dson)
 * [fileSys](https://github.com/zmz1998/fileSys): virtul fileSystem in linux
 * [cv_learning](https://github.com/Biobots/cv_learning)
-
+* [CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks): Performance boost, bug fixes and hacks for fun for Cyberpunk 2077
+* [coros](https://github.com/jfjia/coros): c++11 coroutine network library base on boost.context and libuv
+* [BurgWar](https://github.com/DigitalPulseSoftware/BurgWar): Burg'war est un jeu de plateforme/combat multijoueur en 2D écrit en C++17/Lua avec mon propre moteur de jeu : Nazara Engine.
+* [Btk](https://github.com/BusyStudent/Btk): A library for developing Gui based on SDL2
+* [VkRender](https://github.com/WubiCookie/VkRenderer)
 
 ## Articles
 
