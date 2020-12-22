@@ -177,6 +177,9 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [BurgWar](https://github.com/DigitalPulseSoftware/BurgWar): Burg'war est un jeu de plateforme/combat multijoueur en 2D écrit en C++17/Lua avec mon propre moteur de jeu : Nazara Engine.
 * [Btk](https://github.com/BusyStudent/Btk): A library for developing Gui based on SDL2
 * [VkRender](https://github.com/WubiCookie/VkRenderer)
+* [Vectorizer](https://github.com/DoubleCouponDay/Vectorizer)
+* [mot](https://github.com/vsensu/mot)
+* [MQBuilder](https://github.com/muqiuhan/MQBuilder)
 
 ## Articles
 
