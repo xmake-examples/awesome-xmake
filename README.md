@@ -180,6 +180,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Vectorizer](https://github.com/DoubleCouponDay/Vectorizer)
 * [mot](https://github.com/vsensu/mot)
 * [MQBuilder](https://github.com/muqiuhan/MQBuilder)
+* [CreviceEngine](https://github.com/wicast/CreviceEngine)
 
 ## Articles
 
