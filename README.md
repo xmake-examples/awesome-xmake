@@ -181,6 +181,11 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [mot](https://github.com/vsensu/mot)
 * [MQBuilder](https://github.com/muqiuhan/MQBuilder)
 * [CreviceEngine](https://github.com/wicast/CreviceEngine)
+* [StereoKit](https://github.com/maluoi/StereoKit): An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!
+* [TiltedOnline](https://github.com/tiltedphoques/TiltedOnline): Skyrim and Fallout 4 mod to play online!
+* [TiltedCore](https://github.com/tiltedphoques/TiltedCore): This is the core library used by all C++ projects by Tilted Phoques.
+* [TiltedConnect](https://github.com/tiltedphoques/TiltedConnect): Top layer of the network stack
+
 
 ## Articles
 
